@@ -1,0 +1,10 @@
+proceso_4.txt 1 1
+proceso_4.txt 1 1
+proceso_1.txt 3 3
+proceso_1.txt 1 3
+proceso_3.txt 3 1
+proceso_2.txt 4 2
+proceso_4.txt 1 3
+proceso_4.txt 3 2
+proceso_0.txt 7 2
+proceso_4.txt 6 1
